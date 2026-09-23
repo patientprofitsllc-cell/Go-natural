@@ -1,2 +1,10 @@
 # Go-natural
-Herbal formulations for fertility, men’s and women’s wellness, digestion, joints, metabolism and more, prepared by Coach Priscillia Edurhi. Each comes with guidance on how to take it, and honest limits on what it can do.
+Go Natural
+
+Client e-commerce store for an herbal wellness brand, delivered under Patient Profits LLC.
+
+What I built
+
+Product catalog setup, product naming, and image restoration on the Selar platform — taking the brand from concept to a live storefront.
+
+Live: https://gonaturalwithpriscillia.com
